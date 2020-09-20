@@ -1,4 +1,4 @@
-# Tone-Mapping-HDR-Images
+# Tone Mapping HDR Images
 
 Real-world scenes often have a very large dynamic range (the ratio of brightest to darkest intensities) which can span several orders of magnitude. Such high dynamic range (HDR) images cannot be reproduced directly on conventional displays. 
 
